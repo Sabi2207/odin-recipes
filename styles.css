@@ -4,6 +4,10 @@ html * {
 img {
     width: auto;
     height: 300px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
 }
 #risotto {
     background-color: yellow;
@@ -13,4 +17,13 @@ img {
 }
 h2 {
     font-weight: 200;
+}
+h1 {
+    margin: auto;
+}
+.img_pancakes {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
 }
